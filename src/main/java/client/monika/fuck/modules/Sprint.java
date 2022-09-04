@@ -11,7 +11,7 @@ public class Sprint extends Module {
     Category category=Category.PLAYER.registry(this);
 
     public Sprint() {
-        super("Sprint", Keyboard.KEY_V, Category.PLAYER);
+        super("Sprint", "强制疾跑", Keyboard.KEY_V, Category.PLAYER);
     }
 
     @EventTarget

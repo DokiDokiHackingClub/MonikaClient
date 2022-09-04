@@ -2,6 +2,8 @@ package client.monika.fuck;
 
 import client.monika.fuck.event.EventTarget;
 import client.monika.fuck.event.events.EventKeyboard;
+import client.monika.fuck.modules.ChineseMode;
+import client.monika.fuck.modules.ClickGUI;
 import client.monika.fuck.modules.Sprint;
 
 import java.util.ArrayList;
@@ -15,7 +17,9 @@ public class ModuleManager {
     }
 
     public void loadMods() {
-
+        addModule(new ClickGUI());
+        addModule(new Sprint());
+        addModule(ChineseMode.INSTANCE);
     }
 
 

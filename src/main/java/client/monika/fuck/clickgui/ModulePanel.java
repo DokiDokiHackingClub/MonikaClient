@@ -1,6 +1,7 @@
 package client.monika.fuck.clickgui;
 
 import client.monika.fuck.Module;
+import client.monika.fuck.modules.ChineseMode;
 
 import java.awt.*;
 
@@ -20,7 +21,8 @@ public class ModulePanel {
         if (this.module.isToggle()) color = new Color(200, 0, 120).getRGB();//Module打开的颜色
         if (this.hovered) color = new Color(200, 88, 120).getRGB();//鼠标在指定位置的颜色
         ClickGUI.drawRect(x, y, width, height, color);//绘制Module的背景
-        FontUtils.drawCenteredString(this.module.getName(), x + width / 2, y + height / 2, Color.WHITE.getRGB());//绘制Module的名字
+        if(ChineseMode.INSTANCE.isToggle())FontUtils.drawCenteredString(this.module.getcName(), x + width / 2, y + height / 2, Color.WHITE.getRGB());
+        else FontUtils.drawCenteredString(this.module.getName(), x + width / 2, y + height / 2, Color.WHITE.getRGB());//绘制Module的名字
     }
 
 

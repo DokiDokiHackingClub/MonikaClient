@@ -1,12 +1,10 @@
 package client.monika.fuck.clickgui;
 
 import client.monika.fuck.Category;
-import client.monika.fuck.Client;
 import client.monika.fuck.Module;
 
 import java.awt.*;
 import java.util.ArrayList;
-import java.util.Collection;
 
 public class CategoryPanel {
 

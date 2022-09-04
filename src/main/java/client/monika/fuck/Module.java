@@ -3,10 +3,12 @@ package client.monika.fuck;
 public class Module {
     private boolean toggle;
     private String name;
+    private String cName;
     private int keyCode;
     private Category category;
 
-    public Module(String name, int keyCode, Category category) {
+    public Module(String name, String cName, int keyCode, Category category) {
+        this.cName=cName;
         this.toggle = false;
         this.name = name;
         this.keyCode = keyCode;
@@ -57,5 +59,13 @@ public class Module {
 
     public void onDisable() {
         Client.INSTANCE.EVENT_MANAGER.unregister(this);
+    }
+
+    public String getcName() {
+        return cName;
+    }
+
+    public void setcName(String cName) {
+        this.cName = cName;
     }
 }
