@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Client" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfd0448b-1496-48e6-87e7-1502be55834f" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/codecjorbis-20101023.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/httpclient-4.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/icu4j-core-mojang-51.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jopt-simple-4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/log4j-api-2.0-beta9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/lwjgl-2.9.4-nightly-20150209.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/netty-all-4.0.23.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/realms-1.7.39.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/acacia_double_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/acacia_fence.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/black_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/black_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/black_stained_hardened_clay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/black_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/blue_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/blue_stained_glass_pane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/brick_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/brown_mushroom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/brown_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/chiseled_sandstone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/cobblestone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/dark_oak_fence.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/dark_oak_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/end_portal_frame.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/fence_gate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/glowstone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/granite.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/iron_door.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/iron_trapdoor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/jungle_door.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/jungle_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/lever.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/lit_pumpkin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/magenta_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/melon_stem.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/oak_double_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/oak_planks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/oak_sapling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/obsidian.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/orange_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/pink_stained_glass_pane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/portal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/pumpkin_stem.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/purple_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/quartz_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/quartz_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/red_stained_glass_pane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/red_stained_hardened_clay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/red_tulip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/redstone_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/sandstone_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/silver_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/spruce_fence_gate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/spruce_log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/unlit_redstone_torch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/white_stained_glass_pane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/blockstates/wooden_door.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/acacia_door_bottom_rh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/acacia_fence_gate_open.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/acacia_fence_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/acacia_fence_nse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/acacia_inner_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/acacia_outer_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/acacia_sapling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/andesite.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/andesite_smooth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/anvil_undamaged.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/bed_head.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/bedrock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/birch_fence_gate_closed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/birch_log_side.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/black_pane_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/brewing_stand_bottles_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/brewing_stand_bottles_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/brick_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/brown_mushroom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/button_pressed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/carpet_silver.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/carpet_yellow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/carrots_stage1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/carrots_stage3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/coal_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/cobblestone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/cobblestone_wall_n.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/cobblestone_wall_ns_above.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/comparator_lit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/comparator_lit_subtract.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/comparator_unlit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/cube_mirrored.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/cyan_pane_new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/cyan_pane_s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/dark_oak_fence_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/dark_oak_log_side.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/dark_oak_sapling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/dark_oak_wall_gate_open.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/diamond_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/door_bottom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/door_bottom_rh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/double_sunflower_bottom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/dropper_vertical.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/farmland.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fence_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_floor_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_n_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_n_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_ne_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_ns_alt_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nse_alt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nseu1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nseu1_alt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nseu1_flip_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nseu2_alt_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nseu2_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nseu2_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nsew_alt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nsew_alt_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nsewu2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nsu2_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nsu2_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nu1_alt_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nu2_alt_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/fire_nu2_flip_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/flower_pot_cactus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/flower_pot_rose.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/glass_pane_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/glass_pane_nsw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/glass_pane_s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/glass_pane_se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/granite.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/granite_smooth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/gray_pane_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/gray_pane_nw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/gray_pane_se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/half_slab_birch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/hardened_clay_green.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/hardened_clay_magenta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/hardened_clay_silver.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/hardened_clay_yellow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/hay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/hopper_side.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/iron_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/iron_trapdoor_open.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/item_frame.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/jungle_fence_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/jungle_leaves.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/jungle_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/jungle_wall_gate_closed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/ladder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/lever.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/light_blue_pane_n.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/light_blue_pane_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/light_blue_pane_nsw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/light_pressure_plate_down.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/lime_pane_nse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/magenta_pane_nsw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/magenta_pane_sew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/melon_stem_fruit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/melon_stem_growth1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/melon_stem_growth3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/mob_spawner_cage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/mossy_cobblestone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/mossy_wall_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/mossy_wall_post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/nether_brick_fence_n.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/nether_brick_fence_post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/nether_brick_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/nether_wart_stage0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/nether_wart_stage2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/netherrack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/normal_rail_curved.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/normal_rail_raised_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/oak_leaves.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/orange_pane_sew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/packed_ice.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/pane_s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/pink_pane_nw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/pink_pane_s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/pumpkin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/pumpkin_stem_growth3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/pumpkin_stem_growth4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/pumpkin_stem_growth5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/pumpkin_stem_growth6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/purple_pane_nsw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/purple_pane_sew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/quartz_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/rail_raised_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/red_mushroom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/red_pane_n.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/red_pane_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/red_pane_s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/red_pane_se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/red_tulip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/redstone_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/redstone_none.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/redstone_nuse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/redstone_uew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/redstone_une.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/redstone_unsew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/redstone_unuse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/repeater_locked_3tick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/repeater_on_3tick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/sandstone_all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/sandstone_inner_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/sandstone_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/silver_pane_new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/snow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/spruce_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/spruce_wall_gate_open.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/stem_growth6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/sticky_piston.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/stone_brick_outer_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/stone_pressure_plate_down.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/stonebrick_mossy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/tripwire_attached_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/tripwire_hook_attached_suspended.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/tripwire_n.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/upper_slab_quartz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/upper_slab_red_sandstone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/vine_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/wall_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/wall_ns_above.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/white_pane_new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/white_pane_nsew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/white_tulip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/wooden_button.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/wooden_door_top_rh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/yellow_pane_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/yellow_pane_new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/block/yellow_pane_nw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/beacon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/bedrock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/birch_fence.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/birch_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/blue_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/bookshelf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/bow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/bow_pulling_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/brewing_stand.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/brick_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/brown_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/brown_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/cake.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/charcoal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/clownfish.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/coal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/coarse_dirt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/cobblestone_monster_egg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/cooked_mutton.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/dark_oak_leaves.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/dark_oak_sapling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/double_grass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/double_rose.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/dropper.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/dye_gray.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/dye_light_blue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/ender_eye.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/fern.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/fireworks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/golden_axe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/gray_stained_glass_pane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/green_stained_glass_pane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/item_frame.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/jukebox.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/jungle_fence.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/jungle_leaves.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/jungle_sapling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/leather_boots.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/light_weighted_pressure_plate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/lime_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/magenta_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/magenta_stained_glass_pane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/mossy_cobblestone_wall.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/mushroom_stew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/mycelium.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/nether_brick_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/nether_wart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/netherbrick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/oak_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/paeonia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/pufferfish.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/pumpkin_seeds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/record_blocks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/red_sandstone_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/red_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/red_stained_hardened_clay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/repeater.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/sandstone_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/shears.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/silver_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/skull_zombie.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/slime_ball.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/smooth_red_sandstone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/spruce_leaves.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/spruce_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/stick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/sticky_piston.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/stone_button.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/stone_shovel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/tnt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/wheat_seeds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/white_stained_glass_pane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/wooden_axe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/wooden_button.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/writable_book.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/models/item/yellow_stained_glass_pane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/post/antialias.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/post/blobs2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/post/deconverge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/post/ntsc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/post/outline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/antialias.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/blit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/blobs.vsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/blur.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/bumpy.vsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/fxaa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/ntsc_decode.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/outline_combine.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/outline_soft.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/overlay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/phosphor.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/phosphor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/sobel.vsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/shaders/program/spider.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/anvil_base.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/anvil_top_damaged_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/bed_feet_end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/bed_head_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/bookshelf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/cactus_side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/cake_inner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/carrots_stage_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/coal_ore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/cobblestone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/daylight_detector_inverted_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/diamond_ore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/dirt_podzol_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/dispenser_front_horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/door_acacia_upper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/door_jungle_upper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/emerald_ore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/fire_layer_1.png.mcmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/flower_tulip_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/furnace_front_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/glass_cyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/glass_pane_top_lime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/glass_pane_top_pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/gravel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/hardened_clay_stained_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/hardened_clay_stained_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/hardened_clay_stained_light_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/hardened_clay_stained_magenta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/hardened_clay_stained_pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/hardened_clay_stained_silver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/hopper_inside.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/jukebox_side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/lapis_ore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/lava_flow.png.mcmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/lava_still.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/mushroom_block_skin_brown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/mushroom_block_skin_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/piston_side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/piston_top_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/potatoes_stage_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/prismarine_rough.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/quartz_block_chiseled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/rail_activator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/rail_detector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/red_sandstone_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/redstone_dust_cross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/repeater_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/sandstone_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/sapling_jungle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/sea_lantern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/stone_andesite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/stone_andesite_smooth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/tallgrass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/tnt_side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/water_flow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/waterlily.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/wheat_stage_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/wool_colored_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/wool_colored_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/blocks/wool_colored_silver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/colormap/foliage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/effect/dither.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/banner/diagonal_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/banner/diagonal_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/banner/diagonal_up_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/banner/half_horizontal_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/banner/half_vertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/banner/rhombus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/banner/stripe_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/banner/triangles_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/banner_base.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/bat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/beacon_beam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/cat/siamese.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/chest/christmas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/creeper/creeper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/enderdragon/dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/enderdragon/dragon_exploding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/enderman/enderman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/guardian_elder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/horse/horse_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/rabbit/salt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/rabbit/toast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/skeleton/wither_skeleton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/spider/cave_spider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/wither/wither.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/wolf/wolf_angry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/entity/zombie/zombie_villager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_0a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_1a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_1d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_2a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_5b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_5e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_6b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_7e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_8b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_9e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_ae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_c7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_cf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_d1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_d4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_d7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/font/unicode_page_fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/gui/container/brewing_stand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/gui/container/creative_inventory/tabs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/gui/container/enchanting_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/gui/resource_packs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/gui/spectator_widgets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/gui/title/background/panorama_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/apple_golden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/banner_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/beef_raw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/bow_pulling_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/cauldron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/diamond_leggings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/diamond_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/dye_powder_purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/dye_powder_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/empty_armor_slot_boots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/glowstone_dust.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/gold_boots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/gold_hoe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/gold_leggings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/gold_nugget.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/gold_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/iron_leggings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/leather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/leather_chestplate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/leather_chestplate_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/leather_helmet_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/minecart_tnt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/mutton_cooked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/potion_bottle_splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/prismarine_crystals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/record_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/record_blocks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/repeater.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/spawn_egg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/stone_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/items/string.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/misc/enchanted_item_glint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/misc/shadow.png.mcmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/assets/minecraft/textures/models/armor/diamond_layer_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/monika/fuck/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/monika/fuck/Render.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/monika/fuck/clickgui/ClickGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/monika/fuck/modules/Sprint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockChest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockDirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockFarmland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockFenceGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockHalfStoneSlab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockHugeMushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockJukebox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockLiquid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockNetherBrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockPumpkin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockRedstoneDiode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockRedstoneLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockRedstoneWire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockSand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockSnowBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockSourceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockStaticLiquid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/BlockStone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/IGrowable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/material/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/material/MaterialPortal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/properties/PropertyEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/properties/PropertyInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/state/BlockPistonStructureHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/state/BlockState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/state/pattern/BlockHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/block/state/pattern/BlockStateHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/LoadingScreenRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/audio/ISound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/audio/MovingSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/audio/MusicTicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/audio/PositionedSoundRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiControls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiCreateFlatWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiDisconnected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiMainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiMemoryErrorScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiPageButtonList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiResourcePackSelected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiScreenAddServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiSleepMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/GuiYesNoCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/ServerListEntryLanDetected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/achievement/GuiAchievement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/achievement/GuiStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/spectator/ISpectatorMenuRecipient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/model/ModelHorse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/model/ModelSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/model/ModelSlime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/model/ModelSnowMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/model/ModelWither.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/network/NetHandlerHandshakeMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/network/OldServerPinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/particle/EntityAuraFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/particle/EntityCrit2FX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/particle/EntityDiggingFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/particle/EntityFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/particle/EntityFootStepFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/particle/EntityHeartFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/particle/EntityLargeExplodeFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/particle/EntityPortalFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/player/inventory/LocalBlockIntercommunication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/BlockFluidRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/ChestRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/DestroyBlockProgress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/EntityRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/GLAllocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/Tessellator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/WorldVertexBufferUploader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/chunk/CompiledChunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderEntityItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderGhast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderOcelot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderRabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderSheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderSnowMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderTNTPrimed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderTntMinecart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/RenderZombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/layers/LayerCape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/layers/LayerDeadmau5Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/entity/layers/LayerHeldItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/texture/DynamicTexture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/texture/IIconCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/texture/Stitcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/texture/TextureMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/tileentity/RenderWitherSkull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/tileentity/TileEntityEnchantmentTableRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/renderer/tileentity/TileEntitySignRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/resources/FolderResourcePack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/resources/FoliageColorReloadListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/resources/IResourceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/resources/model/ModelBakery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/shader/ShaderLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/stream/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/stream/IngestServerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/client/stream/Metadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/CommandEntityData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/CommandFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/CommandGameRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/CommandGive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/CommandPlaySound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/CommandServerKick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/CommandWorldBorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/ICommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/PlayerSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/server/CommandAchievement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/server/CommandOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/command/server/CommandWhitelist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/dispenser/BehaviorDefaultDispenseItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/dispenser/BehaviorProjectileDispense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/dispenser/PositionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/enchantment/EnchantmentArrowDamage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/enchantment/EnchantmentDigging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/enchantment/EnchantmentFishingSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/enchantment/EnchantmentWaterWalker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/enchantment/EnchantmentWaterWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/EntityFlying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/EntityMinecartCommandBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/INpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/NpcMerchant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/ai/EntityAIAvoidEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/ai/EntityAIEatGrass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/ai/EntityAIFollowGolem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/ai/EntityAINearestAttackableTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/ai/EntityAIOcelotSit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/ai/EntityAIOpenDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/ai/EntityAIOwnerHurtTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/ai/EntityAIVillagerInteract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/ai/attributes/AttributeModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/boss/IBossDisplayData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/item/EntityPainting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/item/EntityXPOrb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/projectile/EntityPotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/entity/projectile/EntitySmallFireball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/event/ClickEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/inventory/ContainerDispenser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/inventory/ContainerEnchantment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/inventory/ContainerHorseInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/inventory/SlotMerchantResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/item/ItemCarrotOnAStick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/item/ItemExpBottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/item/ItemShears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/item/crafting/RecipesIngots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/nbt/CompressedStreamTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/nbt/NBTTagByteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/nbt/NBTTagCompound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/nbt/NBTTagDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/nbt/NBTTagShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/Packet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/PacketBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/login/client/C00PacketLoginStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/login/server/S03PacketEnableCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/INetHandlerPlayClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/INetHandlerPlayServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/client/C03PacketPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/client/C0BPacketEntityAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/client/C0CPacketInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/server/S04PacketEntityEquipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/server/S06PacketUpdateHealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/server/S07PacketRespawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/server/S1DPacketEntityEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/server/S2APacketParticles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/server/S31PacketWindowProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/network/play/server/S36PacketSignEditorOpen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/potion/PotionAbsorption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/potion/PotionEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/potion/PotionHealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/potion/PotionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/profiler/PlayerUsageSnooper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/realms/RealmsServerAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/realms/RealmsServerStatusPinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/scoreboard/ScoreDummyCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/server/management/LowerStringMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/server/management/PlayerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/stats/ObjectiveStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/stats/StatisticsFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/tileentity/TileEntityBeacon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/tileentity/TileEntityDaylightDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/tileentity/TileEntityDispenser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/tileentity/TileEntityDropper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/tileentity/TileEntityLockable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/tileentity/TileEntityNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/tileentity/TileEntitySign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/ChatComponentText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/ChatComponentTranslationFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/ClassInheritanceMultiMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/CombatTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/EntityDamageSourceIndirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/EnumWorldBlockLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/IJsonSerializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/IThreadListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/MessageDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/ScreenShotHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/StatCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/util/Vector3d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/village/MerchantRecipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/village/Village.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/IBlockAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/IWorldNameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/WorldProviderHell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/WorldSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/biome/BiomeGenBeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/biome/BiomeGenEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/biome/BiomeGenMesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/biome/BiomeGenOcean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/biome/BiomeGenRiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/biome/WorldChunkManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/border/IBorderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/chunk/Chunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/chunk/storage/AnvilSaveHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/chunk/storage/IChunkLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/demo/DemoWorldManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/ChunkProviderFlat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/ChunkProviderSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/MapGenCaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/NoiseGeneratorImproved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/feature/WorldGenCactus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/feature/WorldGenDesertWells.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/feature/WorldGenFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/feature/WorldGenForest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/feature/WorldGenHellLava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/feature/WorldGenIcePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/feature/WorldGenReed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/feature/WorldGenSand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/feature/WorldGenSavannaTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/feature/WorldGenVines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/layer/GenLayerAddMushroomIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/layer/GenLayerHills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/layer/GenLayerRemoveTooMuchOcean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/layer/GenLayerSmooth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/structure/MapGenNetherBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/structure/MapGenScatteredFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/structure/MapGenStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/gen/structure/StructureMineshaftStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/storage/DerivedWorldInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/storage/IPlayerFileData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/minecraft/world/storage/MapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/acacia_planks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/acacia_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/bedrock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/birch_leaves.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/birch_sapling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/birch_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/black_stained_hardened_clay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/bookshelf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/brown_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/chiseled_red_sandstone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/chiseled_sandstone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/coal_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/cobblestone_monster_egg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/command_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/dark_oak_log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/double_grass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/dragon_egg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/gray_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/green_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/green_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/hay_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/light_blue_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/lime_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/mossy_cobblestone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/mycelium.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/nether_brick_double_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/nether_wart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/netherrack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/oak_leaves.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/oak_log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/oak_planks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/orange_stained_hardened_clay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/piston_head.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/prismarine.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/quartz_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/red_sand.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/red_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/redstone_wire.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/silver_stained_hardened_clay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/sponge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/spruce_double_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/spruce_fence_gate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/spruce_log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/stone_button.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/stone_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/trapdoor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/blockstates/yellow_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/acacia_fence_gate_open.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/acacia_fence_nse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/acacia_leaves.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/acacia_log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/andesite.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/anvil_undamaged.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/beacon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/birch_bark.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/birch_door_bottom_rh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/birch_sapling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/black_pane_s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/black_pane_se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/black_pane_sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/black_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/blue_pane_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/blue_pane_nsw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/blue_pane_nw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/brick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/brown_mushroom_block_inside_all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/brown_pane_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/brown_pane_nsew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/carpet_pink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cauldron_level3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cobblestone_wall_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cobblestone_wall_ns_above.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cobblestone_wall_nsew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cocoa_age2_s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/comparator_unlit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cube.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cube_mirrored_all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cyan_pane_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cyan_pane_nse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cyan_pane_se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cyan_pane_sew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/cyan_pane_sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/dark_oak_bark.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/dark_oak_fence_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/dark_oak_fence_post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/dark_oak_log_side.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/dark_oak_sapling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/diorite.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/double_syringa_bottom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/dropper_vertical.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/emerald_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/enchanting_table_base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/end_portal_frame_filled.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_n_alt_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_neu1_flip_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_ns_alt_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_ns_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_ns_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_nseu2_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_nseu2_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_nsewu1_flip_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_nsewu2_flip_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_nsu1_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_nu1_alt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_nu1_alt_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_nu2_alt_flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/fire_u1_main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/flower_pot_cactus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/flower_pot_houstonia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/flower_pot_mushroom_brown.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/glass_blue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/glass_pane_sew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/glass_white.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/golden_rail_flat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/gray_pane_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/gray_pane_s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/green_pane_new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/green_pane_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/green_pane_se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/green_pane_sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/hardened_clay_orange.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/hardened_clay_red.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/hardened_clay_white.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/hay_side.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/heavy_pressure_plate_up.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/iron_trapdoor_bottom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/jungle_fence_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/jungle_inner_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/lapis_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/light_blue_pane_n.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/light_blue_pane_new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/light_blue_pane_sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/light_pressure_plate_up.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/lime_pane_n.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/lime_pane_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/lime_pane_se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/lime_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/magenta_pane_nse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/magenta_pane_nsw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/magenta_pane_sew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/magenta_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/melon_stem_fruit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/melon_stem_growth1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/melon_stem_growth2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/melon_stem_growth4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/mob_spawner_cage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/mossy_cobblestone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/mossy_wall_n.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/mossy_wall_post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/nether_wart_stage1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/normal_rail_curved.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/normal_rail_raised_sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/oak_bark.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/oak_fence_gate_closed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/oak_fence_post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/oak_log_side.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/oak_wall_gate_closed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/obsidian.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/orange_pane_nsw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/orange_pane_se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/orange_pane_sew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/pink_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/piston_head.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/poppy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/portal_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/pumpkin_stem_growth5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/pumpkin_stem_growth7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/purple_pane_sew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/quartz_lines.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/red_pane_ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/red_pane_nse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/red_pane_nsew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/red_pane_nsw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/red_pane_nw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/redstone_nsue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/redstone_nusue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/redstone_unsue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/redstone_unus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/repeater_on_3tick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/silver_pane_sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/soul_sand.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/spruce_door_bottom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/spruce_fence_gate_closed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/spruce_fence_post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/spruce_outer_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/spruce_wall_gate_closed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/stone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/stone_pressure_plate_inventory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/stonebrick_mossy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/trapdoor_open.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/tripwire_attached_suspended_nse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/tripwire_attached_suspended_nsew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/tripwire_hook_attached_suspended_powered.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/tripwire_nse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/tripwire_suspended_n.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/upper_slab_dark_oak.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/upper_slab_oak.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/upper_slab_quartz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/vine_1u.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/vine_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/wall_post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/wheat_stage0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/white_pane_new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/white_pane_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/white_pane_se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/white_pane_sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/wooden_button_inventory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/wooden_button_pressed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/wooden_trapdoor_bottom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/wooden_trapdoor_top.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/yellow_pane_ns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/yellow_pane_s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/block/yellow_pane_se.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/anvil_intact.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/baked_potato.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/birch_door.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/birch_log.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/black_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/black_stained_hardened_clay.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/blaze_powder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/blaze_rod.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/blue_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/brown_mushroom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/cake.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/cauldron.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/chainmail_chestplate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/clownfish.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/cobblestone_monster_egg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/cooked_rabbit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/dark_oak_door.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/dark_oak_fence.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/dark_oak_sapling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/dark_oak_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/dark_oak_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/diamond_helmet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/diamond_horse_armor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/diamond_sword.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/dye_black.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/dye_cyan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/dye_silver.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/ender_eye.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/ender_pearl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/fermented_spider_eye.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/fern.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/flint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/flint_and_steel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/glowstone_dust.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/golden_leggings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/granite.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/gray_stained_glass_pane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/iron_chestplate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/iron_horse_armor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/iron_pickaxe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/iron_shovel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/jukebox.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/jungle_planks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/leather_leggings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/melon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/melon_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/nether_brick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/nether_brick_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/nether_star.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/obsidian.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/orange_carpet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/pumpkin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/purple_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/rabbit_foot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/rabbit_stew.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/record_wait.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/red_sandstone_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/red_stained_glass.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/redstone_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/sandstone_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/sandstone_stairs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/slime_ball.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/snowball.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/spider_eye.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/spruce_planks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/spruce_sapling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/stone_brick_monster_egg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/stone_pressure_plate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/stone_slab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/torch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/wooden_pickaxe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/models/item/yellow_wool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/post/blobs2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/post/color_convolve.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/post/creeper.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/post/desaturate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/post/spider.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/program/bits.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/program/blur.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/program/bumpy.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/program/deconverge.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/program/flip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/program/outline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/program/outline_soft.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/program/outline_watercolor.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/program/sobel.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/shaders/program/wobble.fsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/texts/credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/bed_head_end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/cake_side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/cake_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/carrots_stage_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/cauldron_side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/cobblestone_mossy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/command_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/crafting_table_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/crafting_table_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/daylight_detector_inverted_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/dirt_podzol_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/dispenser_front_horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/door_spruce_lower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/double_plant_sunflower_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/double_plant_syringa_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/dragon_egg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/end_stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/flower_houstonia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/flower_tulip_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/furnace_front_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/glass_lime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/glass_pane_top_brown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/glass_pane_top_cyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/glass_pane_top_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/gold_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/gravel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/hardened_clay_stained_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/hardened_clay_stained_brown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/hardened_clay_stained_light_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/hardened_clay_stained_pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/ice_packed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/lava_flow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/leaves_jungle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/log_jungle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/log_oak_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/mushroom_block_skin_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/planks_oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/potatoes_stage_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/prismarine_rough.png.mcmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/quartz_block_chiseled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/quartz_block_chiseled_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/quartz_block_lines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/quartz_ore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/rail_activator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/rail_activator_powered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/rail_detector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/red_sand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/red_sandstone_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/reeds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/sandstone_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/sapling_jungle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/sapling_roofed_oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/slime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/soul_sand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/stone_andesite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/tnt_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/wheat_stage_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/wheat_stage_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/wheat_stage_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/wool_colored_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/blocks/wool_colored_purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/colormap/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/banner/circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/banner/cross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/banner/curly_border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/banner/diagonal_up_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/banner/half_horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/banner/half_vertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/banner/mojang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/banner/square_bottom_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/banner/triangle_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/banner/triangles_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/cat/ocelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/cat/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/chest/christmas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/chest/christmas_double.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/cow/mooshroom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/creeper/creeper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/creeper/creeper_armor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/guardian_elder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/silverfish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/slime/slime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/squid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/steve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/entity/wolf/wolf_angry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/environment/moon_phases.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/environment/sun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/ascii.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_0d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_1a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_1d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_5b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_6e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_7b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_7e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_8b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_ab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_b7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_d1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_d7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/font/unicode_page_ff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/gui/container/creative_inventory/tabs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/gui/container/enchanting_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/gui/presets/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/gui/spectator_widgets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/gui/title/minecraft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/gui/widgets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/banner_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/book_written.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/bow_pulling_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/bow_standby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/carrot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/carrot_on_a_stick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/comparator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/diamond_axe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/diamond_leggings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/door_iron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/dye_powder_cyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/dye_powder_purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/dye_powder_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/egg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/experience_bottle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/fireworks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/flint_and_steel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/ghast_tear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/gold_ingot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/melon_speckled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/minecart_command_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/mutton_raw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/netherbrick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/potato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/quartz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/rabbit_hide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/repeater.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/saddle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/seeds_wheat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/stone_pickaxe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/items/stone_shovel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/models/armor/chainmail_layer_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/models/armor/gold_layer_1.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MonikaClientDev" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MonikaClientDev" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MonikaClientDev" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MonikaClientDev" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MonikaClientDev" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="shadow" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EHg9qgE9ncxCAR8KDpVuYetUVm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaClassFindUsagesOptions.isFieldsUsages" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/client/monika/fuck/event" />
+    <property name="project.structure.last.edited" value="工件" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MonikaClientDev\src\main\java\client\monika\fuck\event" />
+      <recent name="D:\MonikaClientDev" />
+      <recent name="D:\MonikaClientDev\.minecraft\versions\1.8.8" />
+      <recent name="D:\MonikaClientDev\run" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MonikaClientDev\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.MonikaClientDev [shadowJar]">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.minecraft.client.main.Main" />
+      <module name="MonikaClientDev.main" />
+      <option name="PROGRAM_PARAMETERS" value="--username Dev --version MonikaClient --gameDir run --assetsDir / --assetIndex 0 --uuid 0 --accessToken 0 --userProperties {}" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.minecraft.client.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonikaClientDev [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MonikaClientDev [buildNeeded]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildNeeded" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MonikaClientDev [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MonikaClientDev [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MonikaClientDev [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MonikaClientDev [shadowJar]" />
+        <item itemvalue="Gradle.MonikaClientDev [build]" />
+        <item itemvalue="Gradle.MonikaClientDev [run]" />
+        <item itemvalue="Gradle.MonikaClientDev [assemble]" />
+        <item itemvalue="Gradle.MonikaClientDev [buildNeeded]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bfd0448b-1496-48e6-87e7-1502be55834f" name="变更" comment="" />
+      <created>1662257775287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662257775287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
